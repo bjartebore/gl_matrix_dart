@@ -1,6 +1,6 @@
 name: gl_matrix_dart
 description: A gl-matrix port for dart
-version: 0.1.0
+version: 0.2.0
 repository: https://github.com/bjartebore/gl_matrix_dart.git
 
 environment:
