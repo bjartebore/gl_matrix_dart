@@ -1,0 +1,12 @@
+{
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": false,
+        "editor.rulers": [120],
+        "files.trimTrailingWhitespace": true,
+    },
+    "dart.enableSdkFormatter": true,
+    "dart.lineLength": 120,
+    "dart.runPubGetOnPubspecChanges": false,
+    "files.trimTrailingWhitespace": true,
+}
